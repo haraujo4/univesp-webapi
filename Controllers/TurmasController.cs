@@ -8,7 +8,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using univesp_webapi.Data;
 using univesp_webapi.Data.DTO.Turmas;
-using univesp_webapi.Handle;
 using univesp_webapi.Models;
 
 namespace univesp_webapi.Controllers
